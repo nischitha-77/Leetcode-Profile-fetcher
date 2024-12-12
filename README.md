@@ -1,4 +1,5 @@
-#LeetCode Profile Fetcher
+LeetCode Profile Fetcher
+
 A Streamlit-based application that allows users to fetch and compare LeetCode profiles for multiple users. This tool is designed to provide quick insights into user rankings, problems solved, and badges earned on LeetCode.
 
 Features
