@@ -3,7 +3,7 @@
 A Streamlit-based application that allows users to fetch and compare LeetCode profiles for multiple users. This tool is designed to provide quick insights into user rankings, problems solved, and badges earned on LeetCode.
 
 ## Features
-Fetch LeetCode Profile Data:
+### Fetch LeetCode Profile Data:
 
 Upload a file containing usernames or manually enter usernames (comma-separated).
 Retrieve user details such as:
